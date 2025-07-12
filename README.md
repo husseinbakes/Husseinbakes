@@ -1,6 +1,7 @@
 # 👋 Hi, I'm Hussein Salim
 
-🎂 Founder of **Hussein Bakes** https://husseinbakes.my.canva.site/1
+🎂 Founder of **Hussein Bakes**
+https://husseinbakes.github.io/husseinbakes_website/
 📍 Kitui, Kenya  
 🎨 Passionate about baking artistry, digital branding, and visual storytelling.
 
