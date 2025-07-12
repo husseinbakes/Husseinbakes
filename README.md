@@ -1,7 +1,6 @@
 # 👋 Hi, I'm Hussein Salim
 
-🎂 Founder of **Hussein Bakes**
-https://husseinbakes.github.io/husseinbakes_website/
+🎂 Founder of **Hussein Bakes** [https://husseinbakes.github.io/husseinbakes_website/](https://husseinbakes.github.io/husseinbakes_website/)  
 📍 Kitui, Kenya  
 🎨 Passionate about baking artistry, digital branding, and visual storytelling.
 
@@ -15,13 +14,22 @@ Hussein Bakes is my signature cake and pastry brand—delivering custom-designed
 
 ---
 
+### 🙋‍♂️ About Me
+
+- 🎂 Cake artist & founder of Hussein Bakes  
+- 📍 Based in Kitui, Kenya  
+- 💬 Ask me about custom cake design, food styling, or visual branding  
+- 🌱 Currently learning: UI/UX for food-based e-commerce
+
+---
+
 ## 🌐 Connect with Me
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/husseinbakes)
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/husseinbakes)
 [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?&style=for-the-badge&logo=tiktok&logoColor=white)](https://tiktok.com/@husseinbakes)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/254710975805)
-[![Digital Menu](https://img.shields.io/badge/Menu-Website-blue?style=for-the-badge)](https://husseinbakes.my.canva.site/1)
+[![Visit Website](https://img.shields.io/badge/Visit-Website-blue?style=for-the-badge)](https://husseinbakes.github.io/husseinbakes_website/)
 [![Google Reviews](https://img.shields.io/badge/Google-Reviews-red?style=for-the-badge)](https://g.page/r/CeJ9H8jRYjRGEAE/review)
 
 ---
@@ -30,25 +38,28 @@ Hussein Bakes is my signature cake and pastry brand—delivering custom-designed
 
 | Project | Description |
 |---------|-------------|
-| [**Landing Page**](https://husseinbakes.github.io/husseinbakes_website/) | Live hosted site for Hussein Bakes, built with custom HTML/CSS and GitHub Pages |
-| Menu + Order Form *(Coming Soon)* | Integrated order form + menu layout for customers |
+| [**Main Website**](https://husseinbakes.github.io/husseinbakes_website/) | Live hosted site for Hussein Bakes, built with custom HTML/CSS and GitHub Pages |
+| Menu + Order Form *(Coming Soon)* | Interactive scrollable menu with order modal |
 | Brand Kit *(Coming Soon)* | Visual and color guidelines for digital posts, flyers, and social media |
+
+---
+
+### 🖼 Project Preview
+
+![Homepage Preview](https://github.com/husseinbakes/husseinbakes/blob/main/IMG_5061.jpeg?raw=true)
 
 ---
 
 ## 💡 Skills & Tools
 
-```
 Digital Marketing · Canva · HTML · Branding · Storytelling · Food Photography · Customer Experience
-```
-## 🔧 Tech Stack
 
-- HTML5, CSS3, JavaScript (basic)
-- Canva (Design & Layouts)
-- GitHub Pages (Hosting)
-- Meta Business Suite
 ---
 
-> _This was my first repository. Thank you for visiting!_
+### 📊 GitHub Stats
 
+![Hussein's GitHub stats](https://github-readme-stats.vercel.app/api?username=husseinbakes&show_icons=true&theme=dark)
+](https://github-readme-stats.vercel.app/api?username=husseinbakes&show_icons=true&theme=dark)
+---
 
+> _“Every cake tells a story — let’s make yours unforgettable.”_ 🍰
