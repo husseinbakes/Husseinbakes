@@ -19,7 +19,7 @@ Hussein Bakes is my signature cake and pastry brand—delivering custom-designed
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/husseinbakes)
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/husseinbakes)
 [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?&style=for-the-badge&logo=tiktok&logoColor=white)](https://tiktok.com/@husseinbakes)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-%25C4302B.svg?&style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/254710975805)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/254710975805)
 [![Digital Menu](https://img.shields.io/badge/Menu-Website-blue?style=for-the-badge)](https://husseinbakes.my.canva.site/1)
 [![Google Reviews](https://img.shields.io/badge/Google-Reviews-red?style=for-the-badge)](https://g.page/r/CeJ9H8jRYjRGEAE/review)
 
@@ -40,7 +40,12 @@ Hussein Bakes is my signature cake and pastry brand—delivering custom-designed
 ```
 Digital Marketing · Canva · HTML · Branding · Storytelling · Food Photography · Customer Experience
 ```
+## 🔧 Tech Stack
 
+- HTML5, CSS3, JavaScript (basic)
+- Canva (Design & Layouts)
+- GitHub Pages (Hosting)
+- Meta Business Suite
 ---
 
 > _This was my first repository. Thank you for visiting!_
