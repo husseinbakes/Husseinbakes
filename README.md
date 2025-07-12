@@ -29,7 +29,7 @@ Hussein Bakes is my signature cake and pastry brand—delivering custom-designed
 
 | Project | Description |
 |---------|-------------|
-| [**Landing Page**](https://husseinbakes.github.io/husseinbakes/) | Live hosted site for Hussein Bakes, built with custom HTML/CSS and GitHub Pages |
+| [**Landing Page**](https://husseinbakes.github.io/husseinbakes_website/) | Live hosted site for Hussein Bakes, built with custom HTML/CSS and GitHub Pages |
 | Menu + Order Form *(Coming Soon)* | Integrated order form + menu layout for customers |
 | Brand Kit *(Coming Soon)* | Visual and color guidelines for digital posts, flyers, and social media |
 
